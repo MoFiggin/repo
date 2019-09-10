@@ -1,13 +1,13 @@
-Package: com.site.tweakname
-Version: 1.0.0
+Package: com.mofiggin.galacticempire
+Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: YourName <YourEmail>
-Filename: /TweakName.deb
-Size: (size without ,'s')
-MD5sum: xxxxxxxxxxxx
-SHA1: xxxxxxxxxxxx
-SHA256: xxxxxxxxxxxx
-Section: (Folder Name)
-Description: (What Is This Tweak)
-Author: (Tweak Owner) (Email)
-Name: (NameHere)
+Maintainer: MoFiggin <MoFiggin@gmail.com>
+Filename: /galacticempire.deb
+Size: 3042298
+MD5sum: 3d03702f3f84d2bafd8a662ff550f158
+SHA1: af39933bcea8a91956c1a9c925bbac7108c1ee9a
+SHA256: 14c4a21e8f17b980021b979680347d12e8e64cd8fa0be3ca6077c39784b99476
+Section: Themes
+Description: Galactic Empire Snowboard theme
+Author: MoFiggin (MoFiggin@gmail.com)
+Name: Galactic Empire Theme
