@@ -3,11 +3,12 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: MoFiggin <MoFiggin@gmail.com>
 Filename: /galacticempire.deb
-Size: 6923392
-MD5sum: 0278256d6f779d85c74129cb9254dc82
-SHA1: f0b7805decff595532992eb960f98891eaad06f2
-SHA256: aacc5a8b4d0109adbbe0ab357aa66bce35d0645e7b6ae997e6ea69347680d0df
+Size: 6919490
+MD5sum: 4025b2b164826a47a02b9e735c1702e7
+SHA1: 1e98f80254fc97e74ee193358ebce0159f235114
+SHA256: af180456e470adc610116f3906bcf03466b174de6df3c9d3610b53eca4e525ab
 Section: Themes
 Description: Galactic Empire Snowboard theme
 Author: MoFiggin (MoFiggin@gmail.com)
 Name: Galactic Empire Theme
+Icon: file://emptheme.png
