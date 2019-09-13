@@ -11,3 +11,17 @@ Section: Themes
 Description: Galactic Empire Snowboard theme
 Author: MoFiggin (MoFiggin@gmail.com)
 Name: Galactic Empire Theme
+
+Package: com.mofiggin.redempiretheme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MoFiggin <MoFiggin@gmail.com>
+Filename: /redempiretheme.deb
+Size: 6918724
+MD5sum: 8e66d1872ff13a7b169311584eeb2b44
+SHA1: ee09b4821dcf8aa1ab10f09fc726678096ff15cd
+SHA256: e49f93a8c7497c938f4fc786bcaa51de121bcda7264cda44ce4d3a7d39d5e6d5
+Section: Themes
+Description: A theme with beautiful icons!
+Author: MoFiggin (MoFiggin@gmail.com)
+Name: Red Empire Theme
